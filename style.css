@@ -18,9 +18,11 @@
 }
 
 @media (max-width:768px) {
+
   .header {
     text-align: center;
   }
+
 }
 .main {
   display: block;
@@ -36,11 +38,11 @@
   display: flex;
 }
 .tasks-list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .item-header {
-  list-style:none;
+  list-style: none;
 }
 
 .tasks-element {
@@ -142,10 +144,10 @@
 }
 
 .tasks-element__edit-mode > .tasks-element__chekbox-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .tasks-element__edit-mode > .tasks-element__chekbox-label {
-  display:none;
+  display: none;
 }
