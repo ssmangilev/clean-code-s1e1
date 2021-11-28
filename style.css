@@ -148,6 +148,6 @@
   width: 224px;
 }
 
-.tasks-element__edit-mode > .tasks-element__chekbox-label {
+.tasks-element__edit-mode > 1.tasks-element__chekbox-label {
   display: none;
 }
