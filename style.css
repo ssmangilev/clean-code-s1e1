@@ -145,7 +145,7 @@
 }
 
 /* Completed */
-.tasks-completed > .tasks-element__chekbox-label {
+.tasks-completed .tasks-element__chekbox-label {
   text-decoration: line-through;
   color: #888;
 }
