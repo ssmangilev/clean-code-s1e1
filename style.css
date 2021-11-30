@@ -95,7 +95,19 @@
   margin: 0 0 20px;
 }
 .task-row-wrapper__input {
-  width: 318px;
+  width: 440px;
+  outline: none;
+  margin: 0;
+  font-size: 18px;
+  line-height: 18px;
+  height: 21px;
+  padding: 0 9px;
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 6px;
+  font-family: Lato, sans-serif;
+  color: #888;
+  
 }
 
 /* Task list */
@@ -143,9 +155,9 @@
   display:none;
 }
 
-.tasks-element__edit-mode > .tasks-element__chekbox-input {
+.tasks-element__edit-mode  .tasks-element__chekbox-input {
   display: inline-block;
-  width: 224px;
+  width: 327px;
 }
 
 .tasks-element__edit-mode > .tasks-element__chekbox-label {
